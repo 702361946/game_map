@@ -1,0 +1,10 @@
+__pycache__/
+*temp*/
+.idea/
+log/
+.mypy_cache/
+*.egg-info/
+
+*temp*.*
+mypy.ini
+*.tar.gz
