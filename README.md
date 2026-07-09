@@ -7,4 +7,5 @@ map\[y\]\[x\] = unit
 
 ## 区块地图
 map\[y\]\[x\] = block
+
 block\[y\]\[x\] = unit

@@ -52,6 +52,7 @@ class GameMap:
         :param block_y:
         :return:
         """
+        # noinspection PyTypeChecker
         return self.check_existence_block_block_xy(
             block_x=block_x,
             block_y=block_y
